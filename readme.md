@@ -40,7 +40,6 @@
 ### Compute
 * [Azure Logic App에서 HTTP 액션으로 Translator API 호출하기](./compute/how-to-call-translator-api-via-http-in-logic-apps.md)
 
-
 ## 🔎 사용 방법
 
 * 문제가 발생한 Azure 서비스(리소스) 폴더로 이동합니다.
