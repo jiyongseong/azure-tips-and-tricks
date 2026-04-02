@@ -26,6 +26,7 @@
 ## 🗂️ 폴더 구조 (목표로 하는 구조. 변경될 예정입니다.) 
 
     azure-tips-and-tricks/
+    ├─ APIM/                     # API Management 등
     ├─ identity/                 # Entra ID, RBAC, Managed Identity 등
     ├─ networking/               # VNet, Private Endpoint, DNS, FW, LB 등
     ├─ compute/                  # VM, VMSS, AKS, App Service 등
@@ -36,6 +37,11 @@
     ├─ governance/               # Policy, Cost/Tagging 등
     ├─ devops/                   # GitHub Actions, Azure DevOps, IaC 등
     └─ ai-ml/                    # Azure AI, OpenAI, AML 등
+
+### APIM
+* APIM을 통한 API Import 가이드
+    * [Azure OpenAI API Import 가이드](./APIM/importing-aoai-and-msft-foundry/APIM을_통한_Azure_OpenAI_API_import_가이드.md)
+    * [Microsoft Foundry API Import 가이드](./APIM/importing-aoai-and-msft-foundry/APIM을_통한_MSFT_Foundry_API_Import_가이드.md)
 
 ### Compute
 * Azure Logic App에서 HTTP 액션으로 Translator API 호출하기
