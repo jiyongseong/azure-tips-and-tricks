@@ -38,7 +38,9 @@
     └─ ai-ml/                    # Azure AI, OpenAI, AML 등
 
 ### Compute
-* [Azure Logic App에서 HTTP 액션으로 Translator API 호출하기](./compute/how-to-call-translator-api-via-http-in-logic-apps.md)
+* Azure Logic App에서 HTTP 액션으로 Translator API 호출하기
+    * [Key를 이용한 인증](./compute/how-to-call-translator-api-via-http-in-logic-apps.md)
+    * [Managed Identity를 이용한 인증](./compute/how-to-call-translator-api-via-http-in-logic-apps-managedid.md)
 
 ## 🔎 사용 방법
 
