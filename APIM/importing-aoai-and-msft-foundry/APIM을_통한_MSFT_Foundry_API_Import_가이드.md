@@ -411,3 +411,5 @@ https://apim-jyseong-demo.azure-api.net/foundry-api/openai/v1/chat/completions
 | AI API 인증/권한 부여 | https://learn.microsoft.com/en-us/azure/api-management/api-management-authenticate-authorize-ai-apis |
 | Azure OpenAI REST API 사양 | https://learn.microsoft.com/en-us/azure/ai-services/openai/reference |
 | OpenAI Python SDK | https://github.com/openai/openai-python |
+
+✍️ 2026년 4월 2일 씀.

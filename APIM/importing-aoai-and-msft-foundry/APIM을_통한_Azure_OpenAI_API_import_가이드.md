@@ -614,3 +614,5 @@ python test_openai_via_apim.py
 | OpenAI Python SDK | https://github.com/openai/openai-python |
 | Azure OpenAI REST API 사양 (GitHub) | https://github.com/Azure/azure-rest-api-specs/tree/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference/stable |
 | APIM AI 게이트웨이 기능 | https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities |
+
+✍️ 2026년 4월 2일 씀.
