@@ -1006,3 +1006,5 @@ az network vnet subnet show \
 | 제목 | URL |
 |------|-----|
 | Securing Azure Databricks Serverless: Practical Guide to Private Link Integration (원문) | https://techcommunity.microsoft.com/blog/analyticsonazure/securing-azure-databricks-serverless-practical-guide-to-private-link-integration/4457083 |
+
+✍️ 2026년 4월 15일 씀.
