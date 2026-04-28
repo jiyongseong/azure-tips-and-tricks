@@ -807,6 +807,10 @@ Private Endpoint Rule을 생성하려면 **Step 3에서 생성한 Private Link S
 
 > 💡 **참고**: Domain names로 추가된 도메인은 Network Policy에서 **자동으로 허용(allowlist)** 됩니다.
 
+
+-------------------------
+**이후의 내용에 대해서는 검토 중에 있습니다. 향후 확인이 되면 다시 업데이트 될 예정입니다.**
+
 ### 11.3 도메인 이름(Domain Names) 작성 가이드
 
 Serverless 워크로드가 고객 VNet 내부의 리소스에 접근하려면, **Private Endpoint Rule의 Domain names 필드**에 해당 리소스의 FQDN을 등록해야 합니다. 이 도메인 이름은 Load Balancer Backend Pool의 IP 구성에 매핑되어야 하며, 아래 절차에 따라 작업합니다.
