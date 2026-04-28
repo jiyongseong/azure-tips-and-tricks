@@ -807,8 +807,9 @@ curl http://localhost:8082/
 | Azure Cosmos DB | `sql` | Cosmos DB SQL API |
 | Azure Key Vault | `vault` | Key Vault 접근 |
 | Azure Event Hubs | `namespace` | Event Hubs 접근 |
+| Azure AI Search | `searchService` | Search 서비스 접근 |
 
-> 전체 지원 리소스 목록은 [Supported resources](https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/manage-private-endpoint-rules#resources)를 참고하세요.
+> 전체 지원 리소스 목록은 [Supported resources](https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/manage-private-endpoint-rules#resources)를 참고하세요. Sub-resource ID에 대한 자세한 내용은 [Private Endpoint DNS 구성 — Microsoft Search](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns#microsoft-search)를 참고하세요.
 
 ### 10.4 (선택) Network Policy 설정
 
